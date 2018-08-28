@@ -1,0 +1,95 @@
+<style>
+.sf, td {
+	display: none;
+}
+body {
+	background: url("http://orig00.deviantart.net/3225/f/2018/079/3/6/jerm_bg_by_makogra-dc6flet.jpg");
+	font: 10px verdana;
+}
+#content {
+	background: url("http://orig00.deviantart.net/586d/f/2018/010/c/b/bg2_white_by_makogra-dbzk0ak.png");
+	width: 647px;
+	margin: auto;
+	padding: 25px;
+	text-align: center;
+}
+.pic {
+	width: 700px;
+	padding: 10px;
+	margin: auto;
+}
+.header {
+	width: 700px;
+	padding: -10px;
+	margin: auto;
+}
+h2 {
+	font-weight: normal;
+	font-family: georgia;
+	text-align: center;
+	color: #fff;
+	font-style: normal;
+	padding-left: 10px;
+	line-height: 27px;
+	font-size: 20px;
+	letter-spacing: 10px;
+	border-bottom: 5px dotted #fff;
+	text-transform: uppercase;
+}
+h4 {
+	font: 12px georgia;
+	color: #fff;
+	font-weight: normal;
+	font-style: italic;
+	text-align: right;
+	margin-left: 350px;
+	text-transform: lowercase;
+	letter-spacing: 2px;
+	border: 0px solid #fff;
+	margin-bottom: -11px;
+}
+i {
+	color: #542f24;
+}
+b {
+	color: #2b2844;
+}
+h1 {
+	font-weight: normal;
+	font-family: georgia;
+	text-align: center;
+	color: #fff;
+	line-height: 0px;
+	font-size: 35px;
+	letter-spacing: 15px;
+	border-bottom: 2px solid #fff;
+	text-transform: uppercase;
+	margin-bottom: -10px;
+}
+.scroll {
+	width: 575px;
+	background: #fff;
+	padding: 30px;
+	text-align: left;
+	margin: auto;
+	border: 1px solid #fff;
+}
+.pet {
+	width: 530px;
+	height: 280px;
+	background: #fff;
+	padding: 15px;
+	text-align: center;
+	margin: auto;
+}
+.half {
+	width: 48%;
+	margin: 20px 1%;
+	float: left;
+	text-align: center;
+}
+ul {
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+</style>
